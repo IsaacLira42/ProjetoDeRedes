@@ -26,7 +26,7 @@ O sistema segue o modelo **cliente/servidor**, garantindo que os clientes sejam 
 
 1. Clone o repositório:  
    ```bash
-   git clone https://github.com/seu-usuario/seu-repositorio.git
+   git clone https://github.com/IsaacLira42/ProjetoDeRedes.git
    ```  
 2. Instale as dependências necessárias:  
    ```bash
